@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "psRutES6hVkFbPnSMHcXWD69sZlEO33v8xvJ7+0XRgsrRRXxPqCc174Yi2lGuQDzFZ/efeL8Bz5Q50DeEqTrkg==",
+  "dgSpecHash": "WqDI/Wl9JUnxcH9HHisD8qkKBoL5eXoYgXz00CyioGqtMuRV2i/AhKSxtdyYYlqH3o3rgc41NOL6IaVxm9/drA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SokHeng\\source\\repos\\HtmlGenerator\\HtmlGenerator\\HtmlGenerator.csproj",
+  "projectFilePath": "C:\\Users\\SokHeng\\source\\repos\\HtmlGenerator\\HtmlGeneratorCSharp\\HtmlGenerator\\HtmlGenerator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

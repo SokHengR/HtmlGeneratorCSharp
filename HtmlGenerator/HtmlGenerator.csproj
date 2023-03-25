@@ -8,12 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="roeun_icon.png" />
     <None Remove="sokheng_html.png" />
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="roeun_icon.png" />
     <Resource Include="sokheng_html.png" />
   </ItemGroup>
 

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SokHeng\\source\\repos\\HtmlGenerator\\HtmlGenerator\\HtmlGenerator.csproj",
+      "projectUniqueName": "C:\\Users\\SokHeng\\source\\repos\\HtmlGenerator\\HtmlGeneratorCSharp\\HtmlGenerator\\HtmlGenerator.csproj",
       "projectName": "HtmlGenerator",
-      "projectPath": "C:\\Users\\SokHeng\\source\\repos\\HtmlGenerator\\HtmlGenerator\\HtmlGenerator.csproj",
+      "projectPath": "C:\\Users\\SokHeng\\source\\repos\\HtmlGenerator\\HtmlGeneratorCSharp\\HtmlGenerator\\HtmlGenerator.csproj",
       "packagesPath": "C:\\Users\\SokHeng\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SokHeng\\source\\repos\\HtmlGenerator\\HtmlGenerator\\obj\\",
+      "outputPath": "C:\\Users\\SokHeng\\source\\repos\\HtmlGenerator\\HtmlGeneratorCSharp\\HtmlGenerator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
